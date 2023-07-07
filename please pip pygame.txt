@@ -1,0 +1,3 @@
+to get pygame module:
+-go to command prompt
+-type:pip install pygame
